@@ -1,0 +1,90 @@
+[
+    {
+        "id": 0,
+        "login": "admin",
+        "password": "admin1",
+        "name": "Олег",
+        "surname": "Швец",
+        "email": "3ejiehuu2@gmail.com"
+    },
+    {
+        "id": 1,
+        "login": "andrei",
+        "password": "admin1",
+        "name": "Андрей",
+        "surname": "Коротыгин",
+        "email": "email-1@gmail.com"
+    },
+    {
+        "id": 2,
+        "login": "admin3",
+        "password": "admin1",
+        "name": "Влад",
+        "surname": "Шматко",
+        "email": "email-2@gmail.com"
+    },
+    {
+        "id": 3,
+        "login": "kinzaza1",
+        "password": "admin1",
+        "name": "Влад",
+        "surname": "Малый",
+        "email": "email-3@gmail.com"
+    },
+    {
+        "id": 4,
+        "login": "kinzaza2",
+        "password": "admin1",
+        "name": "Денис",
+        "surname": "Поливода",
+        "email": "email-4@gmail.com"
+    },
+    {
+        "id": 5,
+        "login": "kinzaza3",
+        "password": "admin1",
+        "name": "Арсен",
+        "surname": "Поливода",
+        "email": "email-5@gmail.com"
+    },
+    {
+        "id": 6,
+        "login": "kinzaza4",
+        "password": "admin1",
+        "name": "Руслан",
+        "surname": "Янченко",
+        "email": "email-6@gmail.com"
+    },
+    {
+        "id": 7,
+        "login": "kinzaza5",
+        "password": "admin1",
+        "name": "Илона",
+        "surname": "Повар",
+        "email": "email-7@gmail.com"
+    },
+    {
+        "id": 8,
+        "login": "kinzaza6",
+        "password": "admin1",
+        "name": "Ирина",
+        "surname": "Чепорнюк",
+        "email": "email-8@gmail.com"
+    },
+    {
+        "id": 9,
+        "login": "kinzaza7",
+        "password": "admin1",
+        "name": "Ирина",
+        "surname": "Божко",
+        "email": "email-9@gmail.com"
+    },
+    {
+        "id": 10,
+        "login": "kinzaza8",
+        "password": "admin1",
+        "name": "Данил",
+        "surname": "Комаровский",
+        "email": "email-10@gmail.com"
+    }
+]
